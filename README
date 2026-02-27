@@ -1,9 +1,5 @@
-Project 3: NFA Implementation
+Project: NFA Implementation
 Author: Abdulalim Ciftci
-
-Class: CS361 Section 001
-
-Semester: Fall 2025
 
 ***OVERWIEW
 -------------
@@ -40,4 +36,5 @@ addTransition logic significantly. I would definitely use a Map from the beginni
 ---------------
 Java 8 Documentation
 Stack Overflow
+
 ----------------------------------------------------------------------------------------------------------------------------
